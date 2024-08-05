@@ -22,8 +22,8 @@
 
 #### > Run : `python2 haxor.py`
 
-#### USERNAME : `haxor`
-#### PASSWORD : `htrtech`
+#### USERNAME : `shohanonfire`
+#### PASSWORD : `shohan`
 
 ## Single Command :
 ```
